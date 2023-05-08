@@ -7,4 +7,4 @@ Univerzitě v Olomouci.
 
 Je potřeba mít nainstalovaný quicklisp a naklonovat tento repozitář do cesty
 quicklispu. Pak stačí postupně vyhodnocovat výrazy v souboru
-[](task/plang-result.lisp).
+`task/plang-result.lisp`.
